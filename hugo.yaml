@@ -17,12 +17,15 @@ pygmentsUseClasses: true
 
 menu:
   main:
+    - name: Home
+      url: /
+      weight: 10
     - name: About
       url: about/
-      weight: 10
+      weight: 20
     - name: Resume
       url: resume/
-      weight: 20
+      weight: 30
     # - name: Projects
     #   url: projects/
     #   weight: 40
@@ -79,11 +82,11 @@ params:
 
   socialIcons:
     - name: linkedin
-      url: "#"
+      url: https://linkedin.com/in/mhughes-dev
     # - name: polywork
     #   url: "#"
     - name: github
-      url: "#"
+      url: https://github.com/mhughes-dev
     # - name: keybase
     #   url: "#"
     # - name: pgp
