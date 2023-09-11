@@ -25,16 +25,28 @@ ShowWordCount: false
 ShowRssButtonInSectionTermList: false
 UseHugoToc: false
 ---
-### Note
+*Gallery with more projects is WIP.*
 
-This will eventually be more of a gallery rather than a list.
+### Current Projects
 
-### Projects
+#### Wave Underground
 
-**Palm Beach County Works**
+*Design phase. More info coming.*
 
-*Public sector system for one of the largest counties in the United States consisting of work order, inventory, timekeeping and financial modules that replaced a number of legacy applications.*
+#### Poker Drills Deluxe
 
-**Crash Data Analysis**
+*Early dev phase. More info coming.*
 
-*Automobile crash analytics system for the traffic engineering department at Palm Beach County, FL.*
+### Past Projects
+
+#### PBC Works
+
+*Public sector system for one of the largest counties in the United States consisting of work order, inventory, timekeeping and financial modules.*
+
+#### Azure DevOps Migration
+
+*Project lead for the migration of the applications division to Azure DevOps from an aging custom build and deploy solution.*
+
+#### Crash Data Analysis
+
+*Automobile crash analytics system for a traffic engineering department of a large government entity.*
