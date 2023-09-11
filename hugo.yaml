@@ -23,12 +23,9 @@ menu:
     - name: About
       url: about/
       weight: 20
-    - name: Resume
-      url: resume/
+    - name: Projects
+      url: projects/
       weight: 30
-    # - name: Projects
-    #   url: projects/
-    #   weight: 40
 
 minify:
   disableXML: true
@@ -47,9 +44,9 @@ taxonomies:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "I'm a full-stack software engineer and freelance web developer. Available for new projects right away!"
+  description: "Michael Hughes is a full-stack engineer and freelance web developer."
   author: Michael Hughes
-  keywords: [software, developer, engineer, blog, portfolio, resume, cv, freelance, web]
+  keywords: [software, developer, engineer, blog, profile, portfolio, resume, cv, freelance, web]
 
   defaultTheme: auto
   # disableThemeToggle: true
@@ -71,7 +68,7 @@ params:
     title: Michael Hughes
     subtitle: Full-Stack Engineer | Freelance Web Developer
     imageUrl: images/profile.png
-    imageTitle: Profile picture of Michael Hughes
+    imageTitle: Profile picture
     # imageWidth: 120
     # imageHeight: 120
     # buttons:
@@ -85,8 +82,8 @@ params:
       url: https://linkedin.com/in/mhughes-dev
     # - name: polywork
     #   url: "#"
-    - name: github
-      url: https://github.com/mhughes-dev
+    # - name: github
+    #   url: https://github.com/mhughes-dev
     # - name: keybase
     #   url: "#"
     # - name: pgp
