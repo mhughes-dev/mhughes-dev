@@ -29,7 +29,7 @@ UseHugoToc: false
 
 Michael is a full-stack developer passionate about building digital services and solving real-life problems with code. Currently, he is working freelance and seeking new full-time opportunities following a career break.
 
-### Tech
+### Skills
 
 - C#, ASP.NET, Blazor
 - Python, Django, Vue.js
